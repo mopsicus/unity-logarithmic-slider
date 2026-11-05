@@ -20,7 +20,7 @@ The legend can be configured with any required number of elements and intervals.
 
 # 🎥 Demo
 
-<video src="https://github.com/user-attachments/assets/98f87a4e-7b69-406a-a861-b006743f507e" controls width="100%"></video>
+[![Demo Video](https://img.youtube.com/vi/7vo6zEWgVgE/maxresdefault.jpg)](https://www.youtube.com/watch?v=7vo6zEWgVgE)
 
 ### Environment setup
 
